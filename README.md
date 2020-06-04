@@ -7,7 +7,7 @@
 # Gabriel Urbanin
 <sub>*Aerospace Engineering undergraduate studying Data Science*</sub>
 
-As an aerospace engineering undergrad in Universidade Federal de Minas Gerais (UFMG), i've participated in the project and built an airplane to compete in SAE Aerodesign anual competition. That gave me the ability to combine analytical skills and work in team environments, and also taught me to code.
+As an aerospace engineering undergraduate in Universidade Federal de Minas Gerais, i have participated in the project and built an airplane to compete in SAE Aerodesign anual competition. That gave me the ability to combine analytical skills and work in team environments, and also taught me how to code.
 
 After that i've been fascinated about coding and data science. I'm proficient with C/C++ and Python. Right now 
 the main course of my graduation is in computer science.
