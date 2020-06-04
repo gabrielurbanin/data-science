@@ -13,7 +13,7 @@ After that i've been fascinated about coding and data science. I'm proficient wi
 the main course of my graduation is in computer science.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/gabrielurbanin)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-urbanin-04036a198/)
 
 # Data Science projects:
 ---
