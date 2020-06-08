@@ -16,5 +16,5 @@ the main course of my graduation is in computer science.
 * [LinkedIn](https://www.linkedin.com/in/gabriel-urbanin-04036a198/)
 
 # Data Science projects:
-- Análise dos dados do Airbnb no Rio de Janeiro: https://bit.ly/2BK5ewv
+- Airbnb Data Analysis in Rio de Janeiro (in portuguese): https://bit.ly/2BK5ewv
 ---
