@@ -17,4 +17,5 @@ the main course of my graduation is in computer science.
 
 # Data Science projects:
 - Airbnb Data Analysis in Rio de Janeiro (in portuguese): https://bit.ly/2BK5ewv
+- History of crimes against property in Rio de Janeiro (in portuguese): https://bit.ly/2NmJadS
 ---
